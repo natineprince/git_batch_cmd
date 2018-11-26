@@ -1,4 +1,4 @@
-Project for DOS batch command which assist git operation.
+Project for DOS batch command which assists git operation.
 
 1. update.bat
 
